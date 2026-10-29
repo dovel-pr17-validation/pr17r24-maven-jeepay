@@ -45,7 +45,7 @@
     <jeepay.sdk.java.version>1.6.1</jeepay.sdk.java.version>
     <fastjson.version>2.0.57</fastjson.version> <!-- fastjson 1.x API 兼容层（内核为 fastjson2），修复 CVE RCE（1.2.83 及以下无修复版） -->
     <mybatis.plus.starter.version>3.5.7</mybatis.plus.starter.version>  <!-- mybatis plus -->
-    <hutool.util.version>5.8.26</hutool.util.version>  <!-- hutool -->
+    <hutool.util.version>5.8.48</hutool.util.version>  <!-- hutool -->
     <jjwt.version>0.9.1</jjwt.version>
     <binarywang.weixin.java.version>4.7.2.B</binarywang.weixin.java.version>
     <rocketmq.spring.boot.starter.version>2.3.5</rocketmq.spring.boot.starter.version>
